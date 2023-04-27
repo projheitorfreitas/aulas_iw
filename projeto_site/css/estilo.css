@@ -1,0 +1,18 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: dimgray;
+}
+
+.container{
+    width: 80%;
+    background-color: slategray;
+    margin: auto;
+}
+
+footer{
+    background-color: cadetblue;
+    width: 100%;
+}
